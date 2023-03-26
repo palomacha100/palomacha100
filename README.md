@@ -12,7 +12,6 @@
     <img align="center"alt="Paloma-CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center"alt="Paloma-JS"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center"alt="Paloma-R"src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-    <img align="center"alt="Paloma-MD"src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img align="center"alt="Paloma-React-js"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center"alt="Paloma-React-Native"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </div>
